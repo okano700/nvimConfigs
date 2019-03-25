@@ -18,6 +18,8 @@ call vundle#end()
 
 filetype plugin indent on
 
+
+
 color dracula
 set modeline
 set title
